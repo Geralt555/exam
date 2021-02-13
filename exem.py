@@ -1,4 +1,4 @@
-class Alcohol(Liquid):
+class Alcohol:
     '''Алкоголь'''
 
     def __init__(self, density: float = 0, name: str = 'alcohol', percent: float = 0):
